@@ -1,0 +1,4 @@
+C:\Users\11616\source\repos\XQ2\XQ2\bin\Debug\netcoreapp2.1\publish\XQ2.dll
+C:\Users\11616\source\repos\XQ2\XQ2\bin\Debug\netcoreapp2.1\publish\XQ2.deps.json
+C:\Users\11616\source\repos\XQ2\XQ2\bin\Debug\netcoreapp2.1\publish\XQ2.runtimeconfig.json
+C:\Users\11616\source\repos\XQ2\XQ2\bin\Debug\netcoreapp2.1\publish\XQ2.pdb
